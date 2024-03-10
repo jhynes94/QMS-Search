@@ -131,3 +131,5 @@ dist
 
 # Single executable application builds
 *.blob
+qms
+build
