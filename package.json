@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A Search tool for directory or file based Quality Management Systems (QMS)",
   "main": "main.js",
+  "output": "QMS-Search.blob",
   "type": "module",
   "scripts": {
     "start": "node main.js",
